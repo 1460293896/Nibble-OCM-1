@@ -22,7 +22,7 @@ Download the repository and extract it. Open the .sln file with a recent version
 
 ## Important
 * Mine at your own risk concerning your hardware
-* Refer to [xmr-stak](https://github.com/fireice-uk/xmr-stak) and [xmrig](https://github.com/xmrig)
+* Refer to [xmr-stak](https://github.com/fireice-uk/xmr-stak)
 
 ## How to add a Pool
 Fork this Project and edit the pools.json file. After that, make a Pull Request to our Repository. After a review we will add your pool.
