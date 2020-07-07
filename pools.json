@@ -1,0 +1,27 @@
+{
+	"POOLS" : [
+
+
+	{
+	"name" : "SuperBlockchain",
+	"url" : "https://superblockchain.con-ip.com/nbxc/",
+	"api" : "https://superblockchain.con-ip.com:8151/live_stats",
+	"type" : "forknote",
+	"miningAddress" : "superblockchain.con-ip.com",
+	"miningPortLow" : "11163",
+	"miningPortMid" : "11164",
+	"miningPortHigh" : "11165"
+	},
+
+	{
+    "name" : "FastPooL.XyZ",
+    "url" : "https://fastpool.xyz/nbx",
+    "api" : "https://fastpool.xyz:10034/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "fastpool.xyz",
+    "miningPortLow" : "10031",
+    "miningPortMid" : "10032"
+    }
+
+	]
+}
