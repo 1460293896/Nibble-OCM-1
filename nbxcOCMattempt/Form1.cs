@@ -51,7 +51,7 @@ namespace nbxcOCM
         {
             WebClient wc = new WebClient();
             wc.DownloadStringCompleted += new DownloadStringCompletedEventHandler(writePoolsToList);
-            wc.DownloadStringAsync(new Uri("https://raw.githubusercontent.com/Sudosups/Nibble-OCM/master/pools.json"));
+            wc.DownloadStringAsync(new Uri("https://raw.githubusercontent.com/Nibble-Network/Nibble-OCM/master/pools.json"));
         }
 
         private async void writePoolsToList(object sender, DownloadStringCompletedEventArgs e)
