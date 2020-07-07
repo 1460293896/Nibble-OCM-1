@@ -1,4 +1,9 @@
 # Nibble-OCM 
+
+<p align="center">
+<img width="600" height="342" src="https://i.imgur.com/6tDCbYM.png">
+</p>
+
 One click miner GUI for xmrig and xmr-stak to specifically mine [Nibble](https://nibble-nibble.com)
 
 ## What this program does
