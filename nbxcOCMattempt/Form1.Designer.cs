@@ -154,7 +154,7 @@ namespace nbxcOCM
             // 
             this.minerSelectionCb.FormattingEnabled = true;
             this.minerSelectionCb.Items.AddRange(new object[] {
-            "XMRig",
+            "Select Miner",
             "XMR-stak"});
             this.minerSelectionCb.Location = new System.Drawing.Point(220, 57);
             this.minerSelectionCb.Name = "minerSelectionCb";
