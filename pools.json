@@ -21,6 +21,16 @@
     "miningAddress" : "fastpool.xyz",
     "miningPortLow" : "10031",
     "miningPortMid" : "10032"
+    },
+		
+			{
+    "name" : "FastPooL.XyZ",
+    "url" : "https://fastpool.xyz/nbx",
+    "api" : "https://fastpool.xyz:10034/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "fastpool.xyz",
+    "miningPortLow" : "10031",
+    "miningPortMid" : "10032"
     }
 
 	]
