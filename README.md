@@ -4,7 +4,7 @@
 <img width="593" height="242" src="https://i.imgur.com/6tDCbYM.png">
 </p>
 
-One click miner GUI for xmrig and xmr-stak to specifically mine [Nibble](https://nibble-nibble.com)
+One click miner GUI for xmr-stak to specifically mine [Nibble](https://nibble-nibble.com)
 
 ## What this program does
 Nibble-OCM is a GUI for the cryptonight mining software `xmrig` by @psychocrypt `xmr-stak` by @fireice-uk  
