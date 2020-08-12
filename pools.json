@@ -22,8 +22,17 @@
     "miningPortLow" : "10031",
     "miningPortMid" : "10032",
     "miningPortHigh" : "10032"
-    }
-		
+    },
+	{
+    "name" : "Let'sHash.It!",
+    "url" : "https://letshash.it/nbxc/",
+    "api" : "https://letshash.it:8243/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "letshash.it",
+    "miningPortLow" : "3232",
+    "miningPortMid" : "3234",
+    "miningPortHigh" : "3235"
+    }	
 
 
 	]
