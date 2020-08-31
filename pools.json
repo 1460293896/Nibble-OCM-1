@@ -32,7 +32,18 @@
     "miningPortLow" : "3232",
     "miningPortMid" : "3234",
     "miningPortHigh" : "3235"
-    }	
+    },
+		
+			{
+    "name" : "Pool-pay.com!",
+    "url" : "http://nbxc.pool-pay.com/",
+    "api" : "http://nbxc.pool-pay.com:8767/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "nbxc.pool-pay.com",
+    "miningPortLow" : "3763",
+    "miningPortMid" : "4764",
+    "miningPortHigh" : "5765"
+    }
 
 
 	]
