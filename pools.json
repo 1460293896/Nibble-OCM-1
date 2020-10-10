@@ -33,7 +33,16 @@
     "miningPortMid" : "3234",
     "miningPortHigh" : "3235"
     },
-		
+			{
+    "name" : "GNTL pool",
+    "url" : "https://nbxc.pool.gntl.co.uk",
+    "api" : "https://nbxc.pool.gntl.co.uk/api/network/stats",
+    "type" : "forknote",
+    "miningAddress" : "nbxc.pool.gntl.co.uk",
+    "miningPortLow" : "10003",
+    "miningPortMid" : "20003",
+    "miningPortHigh" : "30003"
+    },		
 			{
     "name" : "Pool-pay.com!",
     "url" : "http://nbxc.pool-pay.com/",
