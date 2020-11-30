@@ -42,7 +42,17 @@
     "miningPortLow" : "10003",
     "miningPortMid" : "20003",
     "miningPortHigh" : "30003"
-    },		
+    },	
+			{
+    "name" : "nibl.ms-pool.net",
+    "url" : "http://nibl.ms-pool.net.ua/",
+    "api" : "https://nibl.ms-pool.net.ua:8117/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "nibl.ms-pool.net.ua",
+    "miningPortLow" : "3333",
+    "miningPortMid" : "4444",
+    "miningPortHigh" : "5555"
+    },	
 			{
     "name" : "Pool-pay.com!",
     "url" : "http://nbxc.pool-pay.com/",
