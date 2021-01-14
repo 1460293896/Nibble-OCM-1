@@ -54,6 +54,16 @@
     "miningPortHigh" : "5555"
     },	
 			{
+    "name" : "walemo.com",
+    "url" : "https://pool.walemo.com/nbxc/",
+    "api" : "https://nbxc.bhdscan.com:32316/live_stats",
+    "type" : "forknote",
+    "miningAddress" : "nbxcpool.walemo.com",
+    "miningPortLow" : "32310",
+    "miningPortMid" : "32311",
+    "miningPortHigh" : "32312"
+    },
+			{
     "name" : "Pool-pay.com!",
     "url" : "http://nbxc.pool-pay.com/",
     "api" : "http://nbxc.pool-pay.com:8767/live_stats",
